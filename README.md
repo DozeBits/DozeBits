@@ -1,6 +1,17 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-###
+<!-- Presentation -->
+<p>
+  Bem vindo (a)❤️! Eu sou o Doze, estudante de programação e atualmente vivendo no Brasil.
+
+  - 🍃 Atualmente estou me aprofundando em algumas linguagens de programação e frameworks. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+
+  - 🔭 Estou focando para futuramente trabalhar com desenvolvimento de jogos, tenho o sonho de participar de algo grande!.
+</p>
 
 <!-- GithubStats -->
 
