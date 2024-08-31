@@ -31,8 +31,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ## 🌎 Programming Languages
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
