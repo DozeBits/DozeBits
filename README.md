@@ -1,16 +1,16 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá Mundo 👋</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
   Bem vindo (a)❤️! Eu sou o Doze, estudante de programação e atualmente vivendo no Brasil.
 
-  - 🍃 Atualmente estou me aprofundando em algumas linguagens de programação e frameworks. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🍃 Atualmente estou me aprofundando em algumas linguagens de programação e frameworks. 
 
-  - 🔭 Estou focando para futuramente trabalhar com desenvolvimento de jogos, tenho o sonho de participar de algo grande!.
+  - 💻 Estou focando para futuramente trabalhar com desenvolvimento de jogos, tenho o sonho de participar de algo grande!.
 </p>
 
 <!-- GithubStats -->
@@ -24,7 +24,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 🔥 Skills
+## 🔥 Programming Languages
 <!-- Skills: Programming Languages -->
 
 <div align="left">
@@ -32,16 +32,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  </div>
 
 ###
 
